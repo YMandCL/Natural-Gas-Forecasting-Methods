@@ -7,3 +7,4 @@ Updates Planned January 2020:
 
 1. Try FB Prophet on new data sets
 2. Read FB Prophet "whitepaper"
+3. Cut data into Time into smaller time chunks for modeling
